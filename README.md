@@ -1,8 +1,5 @@
 # Submission for NLP Intern
-
-## Abstract
-
-After going through the task the first thing that I did was to analyze the task thoroughly and break it up into sub-tasks. Going through the attached video gave me a clear picture of the practical application of this given task.
+123
 
 ## Approach
 
@@ -18,10 +15,7 @@ After going through the task the first thing that I did was to analyze the task 
 * Using similarity index, dictionary and tfidf I created the term similarity matrix.
 * I used *SoftCosineSimilarity* which provides a score of similarity between tags
 
-### Suggesting tags
-* After generating tags from data I used them as an input to generate scores for tag similarity for a set of tags.
-* To suggest the most relevant tags from the set of tags I calculated individual tag similarities between them.
-* This approach of checking tag similarity twice for an already high score set of tags resulted in the suggestion of better and more relevant tags.
+############################
 
 
 ## Testing
